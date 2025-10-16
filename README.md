@@ -304,7 +304,7 @@ Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidel
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+Apache 2 License - see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
